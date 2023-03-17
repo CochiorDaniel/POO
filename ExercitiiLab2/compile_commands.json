@@ -1,0 +1,29 @@
+[{
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\main.cpp",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\main.cpp -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\main.cpp.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\Student.cpp",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\Student.cpp -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\Student.cpp.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\Student.h",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\Student.h -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\Student.h.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\GlobalFunctions.h",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\GlobalFunctions.h -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex2\\GlobalFunctions.h.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\NumberList.cpp",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\NumberList.cpp -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\NumberList.cpp.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\main.cpp",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\main.cpp -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\main.cpp.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\NumberList.h",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\NumberList.h -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab2\\Ex1\\NumberList.h.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }]
