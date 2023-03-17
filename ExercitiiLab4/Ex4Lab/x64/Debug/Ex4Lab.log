@@ -1,0 +1,6 @@
+﻿  Ex4Lab.cpp
+  Sort.cpp
+C:\Users\Daniel\Desktop\POO\Ex4Lab\Ex4Lab\Sort.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Daniel\Desktop\POO\Ex4Lab\Ex4Lab\Sort.cpp(56,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Ex4Lab.vcxproj -> C:\Users\Daniel\Desktop\POO\Ex4Lab\x64\Debug\Ex4Lab.exe
