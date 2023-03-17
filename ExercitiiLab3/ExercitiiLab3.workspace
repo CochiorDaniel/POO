@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ExercitiiLab3" Database="" Version="10000">
+  <Project Name="Ex1" Path="Ex1/Ex1.project" Active="No"/>
+  <Project Name="EX2" Path="EX2/EX2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Ex1" ConfigName="Debug"/>
+      <Project Name="EX2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Ex1" ConfigName="Release"/>
+      <Project Name="EX2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

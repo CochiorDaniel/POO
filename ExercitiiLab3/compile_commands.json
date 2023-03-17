@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\main.cpp",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\main.cpp -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\main.cpp.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\Canvas.cpp",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\Canvas.cpp -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\Canvas.cpp.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\Canvas.h",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\Canvas.h -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\EX2\\Canvas.h.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\main.cpp",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\main.cpp -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\main.cpp.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\Math.cpp",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\Math.cpp -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\Math.cpp.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\Math.h",
+  "directory": "C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1",
+  "command": "C:/TDM-GCC-32/bin/g++.exe -c C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\Math.h -o C:\\Users\\Daniel\\Desktop\\POO\\ExercitiiLab3\\Ex1\\Math.h.o -target mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++ -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\mingw32 -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include\\c++\\backward -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include -IC:\\TDM-GCC-32\\include -IC:\\TDM-GCC-32\\lib\\gcc\\mingw32\\10.3.0\\include-fixed -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }]
