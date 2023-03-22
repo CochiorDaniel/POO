@@ -1,0 +1,3 @@
+C:/Users/Daniel/Desktop/POO/ExercitiiLab5/cmake-build-debug/CMakeFiles/ExercitiiLab5.dir
+C:/Users/Daniel/Desktop/POO/ExercitiiLab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Daniel/Desktop/POO/ExercitiiLab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
